@@ -146,21 +146,16 @@ To develop an interactive business intelligence solution that:
 
 ### 6. Screenshots / Demos
 
-Show what the dashboard looks like.
-
 **Dashboard Preview**
 
-Add a screenshot of the main airline dashboard to your GitHub repository:
-
-![Airline Loyalty Analytics Dashboard](screenshots/airline-dashboard.png)
+![Airline Loyalty Analytics Dashboard](https://github.com/itshemanthb/pbi-airlines-analysis-dax-powerquery-kpi/blob/main/airlines%20img1.png)
 
 **Additional Report Pages**
 
-Include screenshots of the following pages to showcase the complete project:
-
-- **Dashboard** – Enrollment and cancellation trends with report navigation.
 - **Members Page** – Net loyalty membership and running-total analysis.
+![Airline Loyalty Analytics Dashboard](https://github.com/itshemanthb/pbi-airlines-analysis-dax-powerquery-kpi/blob/main/airlines%20img2.png)
 - **Booking Page** – Flight booking trends and enrollment type comparisons.
+![Airline Loyalty Analytics Dashboard](https://github.com/itshemanthb/pbi-airlines-analysis-dax-powerquery-kpi/blob/main/airlines%20img3.png)
 
 
 **Tools Required:** Microsoft Power BI Desktop
